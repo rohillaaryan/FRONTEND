@@ -1,5 +1,9 @@
 .container{
-    display: flex;
+    display: grid;
+    gap: 5px;
+    border-radius: 10px;
+    background: local;
+    flex-wrap: wrap;
 }
 
 #forum{
