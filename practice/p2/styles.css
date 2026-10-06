@@ -3,7 +3,9 @@
     gap: 5px;
     border-radius: 10px;
     background: local;
+
     grid-template-columns: auto;
+
 }
 
 #forum{
