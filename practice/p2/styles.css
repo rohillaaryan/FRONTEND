@@ -3,10 +3,13 @@
     gap: 5px;
     border-radius: 10px;
     background: local;
-    flex-wrap: wrap;
+
+    grid-template-columns: auto;
+
 }
 
 #forum{
     display: flex;
     gap: 10px;
 }
+
